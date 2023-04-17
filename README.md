@@ -1,7 +1,4 @@
 # Door-Lock-RFID_RC522
-Tap card to open door
-
-
 
 I. Summary
 The purpiose of this individual assignment project is to apply the practical knowledge gained from tutorial 
