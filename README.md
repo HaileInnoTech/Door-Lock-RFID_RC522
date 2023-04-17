@@ -1,4 +1,6 @@
 # Door-Lock-RFID_RC522
+Tap card to open door
+
 I. Summary
 The purpiose of this individual assignment project is to apply the practical knowledge gained from tutorial 
 sessions and self-learning to develop a proof-of-concept for an IoT solution. The project that we develop is a 
